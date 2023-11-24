@@ -1,0 +1,127 @@
+/**************/
+/* CSS REMEDY */
+/**************/
+/* *, *::after, *::before {
+  box-sizing:border-box;  
+} */
+
+
+
+
+
+
+/*********************/
+/* CUSTOM PROPERTIES */
+/*********************/
+/* S */
+/* hamburger menu */
+.lijn{
+	width: 5vw;
+	height: 2vh;
+	background-color: rgb(0, 0, 0);
+}
+
+.hamburger-menu-content{
+	display: none;
+}
+
+.menu {
+	display: flex;
+	flex-direction: column;
+
+	width: 5vw;
+	height: 2vh;
+}
+
+/* 
+The @media rule in CSS is used to apply styles to a document based on the characteristics of the 
+device or viewport, such as its width, height, resolution, or other media features. It is commonly 
+used in responsive web design to create styles that are specific to different screen sizes and types 
+of devices. */
+
+
+/****************/
+/* general styling 
+/****************/
+
+body{
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	margin: 0%;
+	border: 0;
+	padding: 0%;
+	background-color: black
+}
+
+.tussenlijn{
+	width: 100vw;
+	height: 0.25vh;
+	background-color: rgb(227, 227, 227);
+}
+
+h1{
+	display: none;
+}
+
+h2,h3,h4{
+	color: #4de298;
+}
+
+/* header */
+header{
+	display: flex;
+	width: 100vw;
+	height: 10vh;
+	background-color: blue;
+}
+
+header a img:nth-child(1){
+	width: 30vw;
+	height: auto;
+}
+
+header a:nth-child(2) img{
+	width: 5vw;
+	height: auto;
+}
+
+/* achtergrond foto carousel */
+
+.achtergrondfotos-container img:nth-child(1){
+	width: 100vw;
+	height: auto;
+	display: none
+}
+
+.achtergrondfotos-container img:nth-child(2){
+	display: none;
+	height: auto;
+	display: none
+}
+
+.achtergrondfotos-container img:nth-child(3){
+	display: none;
+	height: auto;
+	display: none
+}
+
+.buttons:active{
+	border:2%;
+	border-radius: 30%;
+	background-color: rgb(254, 248, 248);
+}
+
+.button-rond{
+	display: flex;
+	flex-direction: row;
+
+	border: 2pc; 
+	/* nog aanpassen */
+	border-radius: 70%;
+}
+
+
+
+
+
+
+
