@@ -88,12 +88,23 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details>
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
-  ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+ ### Stand van zaken
+  Het inleveren op github was voor mij tot nu toe nog wel het moeilijkste waar ik dit nu nog steeds niet op de
+  juiste manier heb kunnen doen.  mijn github wil namelijk niet de fotos in een mapje plaatsen maar plaats elke foto 
+  induvidueel. heb al meerdere manieren geprobeerd om dit op te lossen maar nog geen een heeft effectief uitgepakt. 
+  
+  Verder zijn er nog niet veel uitdagingen op mn pad gekomen het was weer even wennen met
+  het coderen sinds we dit al een tijdje niet meer hadden gedaan, maar toen ik eenmaal bezig was ging het goed. wel lig ik 
+  nog een beedje achter sinds ik veel ziek ben geweest maar ik hoop dit dit weekend te kunnen inhalen
+
+  wat ik de lastigste dingen tot nu toe vond waren:
+
+  het hamburger menu 
+  <img src="">
 
 
-  ### Agenda voor meeting
-  samen met je groepje opstellen
+  de carousel van fotos (ben ik nog niet helemaal over uit hoe ik het ga aanpakken)
+  <img src="" >
 
   | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
